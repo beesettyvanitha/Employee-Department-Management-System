@@ -1,1 +1,1 @@
-# Employee-Department-Management-System
+The Spring Boot Backend for Employee Department Management is a robust application designed to handle backend operations for managing employees and departments. It provides RESTful APIs for performing CRUD operations and integrates seamlessly with a database using Spring Data JPA and MySQL.
